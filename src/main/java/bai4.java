@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Random;
 public class bai4 {
+    
     public static String getElementAtIndex(int i) {
         ArrayList<String> chars = new ArrayList<>();
         for (int a = 0; a < 100; a++) {
