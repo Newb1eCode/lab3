@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9b95c14-127f-4e77-afc4-c901297e2a89" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/bai4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/bai4Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="e9b95c14-127f-4e77-afc4-c901297e2a89" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +44,10 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -66,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710412185353</updated>
       <workItem from="1710412186561" duration="161000" />
+      <workItem from="1710412397178" duration="318000" />
     </task>
     <servers />
   </component>
